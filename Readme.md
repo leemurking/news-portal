@@ -7,8 +7,8 @@ Published by Grant Okello:
 *E-mail: jamesgrant965@gmail.com
 
 ## ## Contact
-- *Phone:0768114967
-- An employee can add news to a department
+- Phone:0768114967
+- 
 - An employee can see the details of a particular department
 
 ## Description
