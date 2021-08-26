@@ -14,7 +14,7 @@ Published by Grant Okello:
 - Gradle
 
 ## Project Setup Instructions
-- Visit the link - https://github.com/George-Okumu/NewsPortal
+- Visit the link - https://github.com/leemurking/news-portal
 1. Fork the repo.
 2. Clone into your machine.
 3. Right click on the project folder and choose open with IntelliJ IDEA.
