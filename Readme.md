@@ -1,8 +1,8 @@
 
-# News Portal API
-<<<<<<< HEAD
+# LEEMURKING News Portal API
+
 Published by Grant Okello
-=======
+
 Published by Grant Okello:
 
 
@@ -10,7 +10,7 @@ Published by Grant Okello:
 - Phone:0768114967
 - E-mail: jamesgrant965@gmail.com
 
->>>>>>> 8d33c4626071aa8890deb89ebe41b251e7d7fef1
+
 
 ## Description
 - A rest REST API for querying and retrieving scoped news and information.
@@ -24,11 +24,11 @@ Published by Grant Okello:
 - Gradle
 
 ## Project Setup Instructions
-<<<<<<< HEAD
+
 - Visit the link - https://github.com/leemurking/NewsPortal
-=======
+
 - Visit the link - https://github.com/leemurking/news-portal
->>>>>>> 8d33c4626071aa8890deb89ebe41b251e7d7fef1
+
 1. Fork the repo.
 2. Clone into your machine.
 3. Right click on the project folder and choose open with IntelliJ IDEA.
