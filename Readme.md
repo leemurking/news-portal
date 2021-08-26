@@ -12,7 +12,7 @@ Published by Grant Okello:
 
 ## Description
 - A rest REST API for querying and retrieving scoped news and information.
-- An employee can add news to a department
+- An employee can add news to a department.
 - An employee can see the details of a particular department
 
 ## Technologies Used
