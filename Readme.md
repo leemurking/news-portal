@@ -15,7 +15,7 @@ Published by Grant Okello:
 - An employee can add news to a department.
 - An employee can see the details of a particular department
 
-## Technologies Used
+## Technologies Used:
 - Java
 - Json and Gson
 - Spark frame work
