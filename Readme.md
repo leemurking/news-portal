@@ -1,8 +1,6 @@
 
 # LEEMURKING News Portal API
 
-Published by Grant Okello
-
 Published by Grant Okello:
 
 
