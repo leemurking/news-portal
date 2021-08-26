@@ -33,7 +33,7 @@ Published by Grant Okello:
 - departments
 - employees
 - news
-- departments_employees for department employee relationship
+- departments_employees for department employee relationship.
 
 
 ## Link to heroku
