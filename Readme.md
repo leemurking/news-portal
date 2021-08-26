@@ -3,7 +3,7 @@
 Published by Grant Okello:
 
 ## Contact
-Phone:0768114967.
+*Phone:0768114967
 
 ## Description
 - A rest REST API for querying and retrieving scoped news and information.
