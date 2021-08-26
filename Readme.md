@@ -23,8 +23,6 @@ Published by Grant Okello:
 
 ## Project Setup Instructions
 
-- Visit the link - https://github.com/leemurking/NewsPortal
-
 - Visit the link - https://github.com/leemurking/news-portal
 
 1. Fork the repo.
