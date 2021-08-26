@@ -2,9 +2,14 @@
 # News Portal API
 Published by Grant Okello:
 
-## Contact
+
 *Phone:0768114967
 *E-mail: jamesgrant965@gmail.com
+
+## ## Contact
+- A rest REST API for querying and retrieving scoped news and information.
+- An employee can add news to a department
+- An employee can see the details of a particular department
 
 ## Description
 - A rest REST API for querying and retrieving scoped news and information.
