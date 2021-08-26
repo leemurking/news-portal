@@ -4,7 +4,7 @@ Published by Grant Okello:
 
 ## Contact
 *Phone:0768114967
-E-mail: jamesgrant965@gmail.com
+*E-mail: jamesgrant965@gmail.com
 
 ## Description
 - A rest REST API for querying and retrieving scoped news and information.
