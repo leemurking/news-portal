@@ -36,7 +36,7 @@ Published by Grant Okello:
 - departments_employees for department employee relationship.
 
 
-## Link to heroku
+## Link to heroku:
 
 
 ## Licence
