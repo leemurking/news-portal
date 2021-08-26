@@ -19,7 +19,7 @@ Published by Grant Okello:
 - Java
 - Json and Gson
 - Spark frame work
-- Gradle
+- Gradle.
 
 ## Project Setup Instructions
 
