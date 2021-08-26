@@ -21,7 +21,7 @@ Published by Grant Okello:
 - Spark frame work
 - Gradle.
 
-## Project Setup Instructions
+## Project Setup Instructions:
 
 - Visit the link - https://github.com/leemurking/news-portal
 
