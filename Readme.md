@@ -4,11 +4,11 @@ Published by Grant Okello:
 
 
 
-*E-mail: jamesgrant965@gmail.com
+*
 
 ## ## Contact
 - Phone:0768114967
-- 
+- E-mail: jamesgrant965@gmail.com
 - An employee can see the details of a particular department
 
 ## Description
